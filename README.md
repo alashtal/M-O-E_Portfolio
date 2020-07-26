@@ -1,6 +1,6 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-#Moe's Portfolio
+# Moe's Portfolio
 
 Welcome USER_NAME,
 
