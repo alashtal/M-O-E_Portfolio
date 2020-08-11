@@ -1,4 +1,5 @@
 <h1 align="center">Moe Portfolio</h1>
+
 <img src="assets/images/Moe_tran.png" alt="(Moe)My portfolio logo" width="130" height="120" ">
  
 <i class="fa fa-click">icon</i>
@@ -13,10 +14,6 @@ It was created with HTML, CSS and Javascript. Its is lightweight and fully respo
 ## UX (User Experience)
  This website is desigened to be responsive on a range of devices which is smooth to navigate for potential recruiters/customers and it showcases a developers skills, the main focus for the website’s owner is to present his knowledge in developing and manifest digital ideas to reality.
  Potential customers can request projects such as fully responsive front-end static website’s with the addition of back-end functionality, another project can be a mobile application as well.
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-
----
 
 - ### User stories
 
@@ -43,38 +40,46 @@ This section is also where you would share links to any wireframes, mockups, dia
       [Color Psychology](http://www.artitudesdesign.com/purple-color-psychology/) says that it “can have calming effects over the mind and nerves, it can be uplifting and can trigger creativity.”
 
   - #### Typography
-    - The sexy fonts used within the website are Exo, Roboto and Ubuntu fonts. Sans Serif font is used a well as a fallback font in case it wasn't compatible.
+    - The sexy fonts used within the website are Exo and Roboto fonts. Sans Serif font is used a well as a fallback font if the browser is not compatible with the fonts.
 
 
     -   ### Wireframes
-        -   Desktop Wireframes
-        -   [Main Page](assets/wireframes/dark-delight-desktop-main-page.png)
-        -   [Home Page Review and Products](assets/wireframes/dark-delight-desktop-home-page-review-and-products.png)
-        -   [Gallery Page](assets/wireframes/dark-delight-desktop-home-page-gallery.png)
-        -   [About Page](assets/wireframes/dark-delight-desktop-home-page-about.png)
-        -   [Shop Page](assets/wireframes/dark-delight-desktop-shop-page.png)
-        -   [Contact Us/Sign Up Form](assets/wireframes/dark-delight-contact-us-sign-up.png)
-        -   [Footer](assets/wireframes/dark-delight-desktop-footer.png)
+     -   Desktop Wireframes
+        -   [Main Page](assets/wireframes/)
+        -   [Home Page]()
+        -   [About Page](assets/wireframes/)
+        -   [Footer](assets/wireframes/)
+        -   [Contact Us/Sign Up Form](assets/)
 
     -   iPad Wireframes
-        -   [Main Page](assets/wireframes/dark-delight-ipad-main-page.png)
-        -   [Products Page](assets/wireframes/dark-delight-ipad-products-page.png)
-        -   [Gallery Page](assets/wireframes/dark-delight-ipad-gallery-page.png)
-        -   [About Page](assets/wireframes/dark-delight-ipad-about-page.png)
-        -   [Shop Page](assets/wireframes/dark-delight-ipad-shop-page.png)
-        -   [Footer](assets/wireframes/dark-delight-ipad-footer.png)
+        -   [Main Page](assets/wireframes/)
+        -   [Conatact Page](assets/wireframes/)
+        -   [About Page](assets/wireframes/)
+        -   [Footer](assets/wireframes/)
 
     -   Mobile Wireframes
-        -   [Main Page](assets/wireframes/dark-delight-mobile-main-page.png)
-        -   [Products Page](assets/wireframes/dark-delight-mobile-products-page.png)
-        -   [Gallery Page](assets/wireframes/dark-delight-mobile-gallery-page.png)
-        -   [About Page](assets/wireframes/dark-delight-mobile-about-page.png)
-        -   [Shop Page](assets/wireframes/dark-delight-mobile-shop-page.png)
-        -   [Footer](assets/wireframes/dark-delight-mobile-footer.png)
+        -   [Main Page](assets/wireframes/)
+        -   [Contact Page](assets/wireframes/)
+        -   [About Page](assets/wireframes/)
+        -   [Footer](assets/wireframes/)
 
 ## Features
+    
+### Features Left to Implement
 
-- ### Existing Features
+   - #### Gallery for showcasing projects:
+    - This will be a section of different hero images of my projects with a hyperlink linked to them. It will include some animation or JavaScript as well.
+
+   - #### Hosting the project in a domain:
+    - I will find a hosting platform, optain a domain as well to make the project official and most importantly to have a bigger playground to play with and add more functionality.
+
+    - #### Live Chat Plugin:
+    - I will use [drift](https://www.drift.com) API, for recruiter to chat with me when I'm available, if not all messages will be forwared to me.
+
+   - #### Functionalty contact form:
+     - The contact form will be linked to an email after optaining a domain of course.
+
+ ### Existing Features
 
   - #### Responsive on all device sizes and Interactive elements
 
@@ -118,39 +123,46 @@ This section is also where you would share links to any wireframes, mockups, dia
 
 ### Languages Used
 
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
-- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [HTML5](https://www.w3schools.com/html/html_intro.asp)
+- [CSS3](https://www.w3schools.com/css/)
+- [JS](https://www.javascript.com/)
 
 ### Frameworks, Libraries & Programs Used
-
+1. [Animate.CSS:](https://animate.style)
+   - Animate.CSS is a library of ready-to-use, cross-browser animations for you to use in your projects.
 1. [Bootstrap 4.5:](https://getbootstrap.com/)
    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Hover.css:](https://ianlunn.github.io/Hover/)
+1. [GitPod:](https://gitpod.io)
+   - Gitpod was used as an IDE to create and temporary view the website.
+1. [WOW.Js:](https://wowjs.uk)
+   - wow.js is a JavaScript plugin that reveals animations when you scroll.
+1. [Templatemo:](https://templatemo.com)
+   - Used to downloand the edited theme of the website, the theme is Blaster a very eye catchy theme.
+1. [Hover.CSS:](https://ianlunn.github.io/Hover/)
    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
-   - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+   - Font Awesome was used within the whole website to add icons for aesthetic's.
 1. [jQuery:](https://jquery.com/)
    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
+1. [Canva:](https://www.canva.com/)
+   - I used Canva to create the logo and size my profile image.
+1. [Balsamiq:](https://balsamiq.com/)
+   - Balsamiq used to create the design wireframes.
+   1. [Git](https://git-scm.com/)
    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
    - GitHub is used to store the projects code after being pushed from Git.
    - Code-Institute’s [Gitpod-Full-Template](https://github.com/Code-Institute-Org/gitpod-full-template) repository was used to install the helpful extensions for the Gitpod workspace.
-1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-   - Photoshop was used to create the logo, resizing images and editing photos for the website.
-1. [AdobeSpark:](https://spark.adobe.com/)
-   - Adobe Spark was used to create the logo in the footer.
-1. [Balsamiq:](https://balsamiq.com/)
-   - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [index.html Results](assets/w3c-validations/index.html-w3c-validation.pdf), [shop.html Results](assets/w3c-validations/shop.html-w3c-validation.pdf)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [style.css Results](assets/w3c-validations/style.css-w3c-validation.pdf)
+- [Am I responsive](http://ami.responsivedesign.is/)
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -161,6 +173,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   3.  The navigation bar has the “About” link that scrolls the user down to the About section for more information about the company and what they’re trying to achieve. Under “Our Mission” section the company’s ethos is described.
 
 - I want to be able to easily navigate through the site to find content.
+-__1 TransparenT 600px and down ^^^^^^^^^^^^^^^^^^^^^^
+-___2 
 
   1.  The users have three options:
 
@@ -242,7 +256,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Humaid-Amin/dark-delight-milestone-project)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/alashtal/M-O-E_Portfolio)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
@@ -251,15 +265,15 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Humaid-Amin/dark-delight-milestone-project)
-2. Under the repository name, click "Clone or download".
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/alashtal/M-O-E_Portfolio)
+2. Under the repository name, click "Clone or Download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
-$ git clone https://github.com/Humaid-Amin/dark-delight-milestone-project
+$ git clone https://github.com/alashtal/M-O-E_Portfolio
 ```
 
 7. Go to the clone folder and double click on the index.html to load the website.
@@ -272,108 +286,18 @@ $ git clone https://github.com/Humaid-Amin/dark-delight-milestone-project
 - CSS styling:
 
   - .strike [Oblique Strike-through](https://stackoverflow.com/questions/14593415/how-to-strike-through-obliquely-with-css)
-  - .outline [Creating Text outline in CSS](https://wpshout.com/quick-guides/create-text-outline-css/#:~:text=Just%20declare%20text%2Doutline%3A%201px,basically%20only%20supported%20in%20Chrome.)
 
 ### Content
 
-- Content was written by the developer.
-- History section copied from [here](https://www.yemencoffeeonline.com/history-of-yemen-coffee/#:~:text=Most%20agree%20that%20the%20original,beverage%20that%20we%20know%20today.)
-- Review Copied from [here](https://english.alarabiya.net/en/features/2017/08/02/How-Yemen-once-introduced-the-world-to-mocha-coffee-)
+- Content was written by the programmer.
 - README File content was used from [Code Institute README Sample](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md)
 
 ### Media
 
 - Hero Image:
 
-  - [Pongpongching](https://www.freepik.com/free-vector/powerful-coffee-cup-template_7884696.htm)
-
-- Slideshow Gallery:
-
-  - [Pablo Merchán Montes](https://unsplash.com/photos/SCbq6uKCyMY)
-  - [Natanaelginting](https://www.freepik.com/free-photo/yemen-flag-ruffled-beautifully-waving-macro-close-up-shot_1156281.htm#page=1&query=yemen&position=4)
-  - [Rodrigo Flores](https://unsplash.com/photos/T5qjs-63kqQ)
-  - [WallPaperFlare](https://www.wallpaperflare.com/white-and-brown-living-room-set-yemen-tawilah-architecture-wallpaper-peruf/download/2560x1600) , [also](https://www.wallpaperflare.com/cities-sana-a-al-saleh-mosque-minaret-yemen-wallpaper-htsst/download/2560x1600), [and](https://www.wallpaperflare.com/mountain-scenery-aden-yemen-the-scenery-landscape-mountain-range-wallpaper-wivlc/download/2560x1600)
-
-- Product Images and Mockups
-  - [Freepik](https://www.freepik.com/free-psd/coffee-bags-mockup_3676734.htm#page=1&query=coffee%20packaging&position=28)
-  - [Freepik](https://www.freepik.com/free-psd/simple-wallpaper-with-coffee-beans_6178767.htm#page=1&query=coffee%20beans&position=14)
-  - [Freepik](https://www.freepik.com/free-photo/plastic-bag-filled-with-coffee-beans_6895909.htm#page=4&query=coffee+beans&position=20)
-  - [Freepik](https://www.freepik.com/free-psd/flat-lay-bag-with-coffee-beans_8921688.htm#page=2&query=coffee+beans&position=2)
-  - [Vectorpocket](https://www.freepik.com/free-vector/black-white-sugar-sachet-sticks-vector-mockup_5901331.htm#page=1&query=coffee%20packaging&position=39)
-  - [rawpixel.com](https://www.freepik.com/free-psd/white-sachet-mockup-against-white-background_3384612.htm#page=1&query=packaging&position=4)
-  - [yingyang](https://www.freepik.com/free-photo/table-top-with-background_1167379.htm#page=1&query=white%20background&position=35)
-  - [Lukas](https://images.pexels.com/photos/942801/pexels-photo-942801.jpeg?cs=srgb&dl=coffee-beans-942801.jpg&fm=jpg)
-  - [Gabler-Werbung](https://pixabay.com/photos/coffee-bean-roasting-beans-90831/)
-  - [Rudolf_langer](https://pixabay.com/photos/coffee-beans-coffee-food-aroma-335631/)
+  - [This is Moe](assets/images/my_pic.png)
 
 ### Acknowledgements
 
-- My Mentor for continuous helpful feedback.
-
-??????????????????????????????
-
-## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-
-### Existing Features
-
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
-
-## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-  - The project uses **JQuery** to simplify DOM manipulation.
-
-## Testing
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-   1. Go to the "Contact Us" page
-   2. Try to submit the empty form and verify that an error message about the required fields appears
-   3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-   4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-## Credits
-
-### Content
-
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
-
-### Acknowledgements
-
-- I received inspiration for this project from X
+- I'm very grateful and thankful for my mentor @Maranatha Ilesanmi, Mark Mcgann and all the student care team.
