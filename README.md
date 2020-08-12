@@ -1,8 +1,8 @@
 <h1 align="center">Moe Portfolio</h1>
 
-<img src="assets/images/Moe_tran.png" alt="(Moe)My portfolio logo" width="130" height="120" ">
+<img src="assets/images/Moe_tran.png" alt="My portfolio logo" width="130" height="120" ">
  
-<i class="fa fa-click">icon</i>
+<i class="fa fa-click"></i>
 
 [Click here to view the portfolio.](https://)
 
@@ -38,6 +38,7 @@ It was created with HTML, CSS and Javascript. Its is lightweight and fully respo
     - The color used are colormap linear gradient of the color schemes purple, white and blue and at most of the design purple is the color progression dominant.
       I choose the color purple because it's often assosiated with wisdom, creativity and magic.Purple as well is the balancing color between red and blue’s color psychologies, and while red brings energy to the color, blue brings relaxation and stability, together they make purple the perfect balance of the two.
       [Color Psychology](http://www.artitudesdesign.com/purple-color-psychology/) says that it “can have calming effects over the mind and nerves, it can be uplifting and can trigger creativity.”
+    - Color inspired from [dribble](https://dribbble.com).
 
   - #### Typography:
     - The sexy fonts used within the website are Exo and Roboto fonts. Sans Serif font is used a well as a fallback font if the browser is not compatible with the fonts.
@@ -122,6 +123,8 @@ It was created with HTML, CSS and Javascript. Its is lightweight and fully respo
    - Gitpod was used as an IDE to create and temporary view the website.
 1. [WOW.Js:](https://wowjs.uk)
    - wow.js is a JavaScript plugin that reveals animations when you scroll.
+1. [CSS Tricks](https://css-tricks.com/css-animation-libraries/)
+    -Used to inspired designs and code understanding as well such as creating a variable like :root.
 1. [Templatemo:](https://templatemo.com)
    - Used to downloand the edited theme of the website, the theme is Blaster a very eye catchy theme.
 1. [Hover.CSS:](https://ianlunn.github.io/Hover/)
