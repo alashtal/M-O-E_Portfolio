@@ -150,7 +150,7 @@ It was created with HTML, CSS and Javascript. Its is lightweight and fully respo
    - I used Canva to create the logo and size my profile image.
 1. [Balsamiq:](https://balsamiq.com/)
    - Balsamiq used to create the design wireframes.
-   1. [Git](https://git-scm.com/)
+1. [Git](https://git-scm.com/)
    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
    - GitHub is used to store the projects code after being pushed from Git.
