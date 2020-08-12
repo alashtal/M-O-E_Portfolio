@@ -1,9 +1,6 @@
+<img src="./assets/images/Moe_tran.png" alt="My portfolio logo" width="130" height="120" ">
 <h1 align="center">Moe Portfolio</h1>
-
-<img src="assets/images/Moe_tran.png" alt="My portfolio logo" width="130" height="120" ">
  
-<i class="fa fa-click"></i>
-
 [Click here to view the portfolio.](https://alashtal.github.io/M-O-E_Portfolio/)
 
 <h2 align="center"><img src="assets/wireframes/Amirespon.jpg"></h2>
@@ -68,16 +65,16 @@ It was created with HTML, CSS and Javascript. Its is lightweight and fully respo
     
 ### Features Left to Implement
 
-   - #### Gallery for showcasing projects:
+- #### Gallery for showcasing projects:
     - This will be a section of different hero images of my projects with a hyperlink linked to them. It will include some animation or JavaScript as well.
 
-   - #### Hosting the project in a domain:
+- #### Hosting the project in a domain:
     - I will find a hosting platform, optain a domain as well to make the project official and most importantly to have a bigger playground to play with and add more functionality.
 
-    - #### Live Chat Plugin:
+- #### Live Chat Plugin:
     - I will use [drift](https://www.drift.com) API, for recruiter to chat with me when I'm available, if not all messages will be forwared to me.
 
-   - #### Functionalty contact form:
+ - #### Functionalty contact form:
      - The contact form will be linked to an email after optaining a domain of course.
 
  ### Existing Features
