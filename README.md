@@ -1,4 +1,4 @@
-<img src="./assets/images/logo.png" width="130" height="120" ">
+<img src="./assets/images/logo.png" width="130" height="120">
 <h1 align="center">Moe Portfolio</h1>
  
 [Click here to view the portfolio.](https://alashtal.github.io/M-O-E_Portfolio/)
