@@ -370,10 +370,7 @@ footer {
     color: black;
 }
 
-#germany {
-    background: rgb(0,0,0);
-    background: linear-gradient(90deg, rgba(0,0,0,1) 15%, rgba(221,0,0,1) 49%, rgba(255,206,0,1) 87%) !important;
-}
+
 /*-----------------------------------------------END_Colors */
 
 
