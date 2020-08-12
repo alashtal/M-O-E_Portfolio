@@ -4,7 +4,7 @@
  
 <i class="fa fa-click"></i>
 
-[Click here to view the portfolio.](https://)
+[Click here to view the portfolio.](https://alashtal.github.io/M-O-E_Portfolio/)
 
 <h2 align="center"><img src="assets/wireframes/Amirespon.jpg"></h2>
 Hello world =)
@@ -195,7 +195,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://.github.io/index.html) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://alashtal.github.io/M-O-E_Portfolio/) in the "GitHub Pages" section.
 
 ### Making a Local Clone
 
